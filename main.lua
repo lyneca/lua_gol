@@ -1,7 +1,7 @@
 table = require("table")
 
 grid_size = 32
-cell_size = 20
+cell_size = 18
 cell_gap = 2
 
 delay = 0.05
